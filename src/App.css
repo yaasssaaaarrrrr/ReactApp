@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +34,87 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+.dashrefer {
+  display: flex;
+} */
+
+/* .App {
+  width: 1366px;
+  height: 947px;
+} */
+
+.friendsEnrolled h1 {
+  margin: 0px;
+  position: absolute;
+  width: 168px;
+  height: 24px;
+  left: 187px;
+  top: 799px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #800080;
+}
+.privacy h1 {
+  margin: 0px;
+  position: absolute;
+  width: 159px;
+  height: 24px;
+  left: 187px;
+  top: 843px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #800080;
+}
+
+/* Mobile screen */
+/* Mobile screen styles */
+@media only screen and (max-width: 428px) and (max-height: 1260px) {
+  .friendsEnrolled h1 {
+    position: absolute;
+    width: 168px;
+    height: 24px;
+    left: 37px;
+    top: 1156px;
+    margin: 0px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #800080;
+  }
+  .privacy h1 {
+    position: absolute;
+    width: 159px;
+    height: 24px;
+    left: 37px;
+    top: 1200px;
+    margin: 0px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #800080;
   }
 }

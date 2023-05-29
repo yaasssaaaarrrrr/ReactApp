@@ -1,0 +1,680 @@
+/* How does it work ? */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+p {
+  margin: 0;
+}
+
+.how-does-it-work-1 {
+  position: absolute;
+  height: 332px;
+  width: 764px;
+  left: 187px;
+  top: 407px;
+  border-radius: 0px;
+}
+.group-494 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.how-does-it-work {
+  position: absolute;
+  width: 224px;
+  height: 36px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #800080;
+}
+
+.group-611 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-132 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 2px;
+  top: 60px;
+  border-radius: 32.5px;
+
+  background: rgba(217, 217, 217, 0.25);
+  /* background-image: url(./images/Ellipse\ 132.png); */
+}
+.group-vec {
+  position: absolute;
+  left: 17px;
+  right: 16px;
+  top: 25px;
+  bottom: 24px;
+  height: 16px;
+  width: 32px;
+
+  /* NEW GRADIENT 2 */
+
+  /* background: linear-gradient(270deg, #800080 0%, #ff864c 100%); */
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.invite-your-friends {
+  position: absolute;
+  width: 151.22px;
+  height: 24px;
+  left: 87px;
+  top: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.share-the-link-tutedude {
+  position: absolute;
+  width: 270.56px;
+  height: 48px;
+  left: 87px;
+  top: 80px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #4d4d4d;
+}
+
+.data-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-1321 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 405px;
+  top: 60px;
+  border-radius: 32.5px;
+
+  background: rgba(217, 217, 217, 0.25);
+}
+.discount-vec {
+  position: absolute;
+  left: 19.67px;
+  right: 18.67px;
+  top: 19.67px;
+  bottom: 18.67px;
+  height: 26.67px;
+  width: 26.67px;
+}
+
+.content-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.friend-purchases-any-co {
+  position: absolute;
+  width: 244.62px;
+  height: 24px;
+  left: 490px;
+  top: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.using-your-referral-cod {
+  position: absolute;
+  width: 268.76px;
+  height: 48px;
+  left: 490px;
+  top: 80px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #4d4d4d;
+}
+
+.group-2105 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.data-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-1322 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  /* left: 2px; */
+  top: 162px;
+  border-radius: 32.5px;
+
+  background: rgba(217, 217, 217, 0.25);
+  /* background-image: url(./images/Ellipse\ 132.png); */
+}
+.rupees-vec {
+  position: absolute;
+  left: 21px;
+  right: 21px;
+  top: 18px;
+  bottom: 13px;
+  width: 23px;
+  font-family: "Verdana";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+}
+
+.content-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.you-get-200-as-referral-m {
+  position: absolute;
+  width: 264px;
+  height: 24px;
+  left: 85px;
+  top: 158px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.on-total-purchase-the-fr {
+  position: absolute;
+  width: 274.17px;
+  height: 48px;
+  left: 85px;
+  top: 182px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #4d4d4d;
+}
+
+.data-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+.ellipse-1323 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 405px;
+  top: 162px;
+  border-radius: 32.5px;
+
+  background: rgba(217, 217, 217, 0.25);
+}
+.offer-vec {
+  position: absolute;
+  left: 20px;
+  right: 18.36px;
+  top: 20px;
+  bottom: 18.37px;
+  height: 26.63px;
+  width: 26.64px;
+}
+
+.content-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.your-friend-gets-200-off {
+  position: absolute;
+  width: 231px;
+  height: 24px;
+  left: 490px;
+  top: 158px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.on-his-overall-fee-on-suc {
+  position: absolute;
+  width: 274px;
+  height: 48px;
+  left: 490px;
+  top: 182px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #4d4d4d;
+}
+
+.data-4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.ellipse-1324 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  /* left: 2px; */
+  top: 264px;
+  border-radius: 32.5px;
+
+  background: rgba(217, 217, 217, 0.25);
+  /* background-image: url(./images/Ellipse\ 132.png); */
+}
+.wallet-vec {
+  position: absolute;
+  left: 21px;
+  right: 18.67px;
+  top: 21px;
+  bottom: 20px;
+  height: 24px;
+  width: 25.33px;
+}
+.content-4 {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+}
+.transfer-money-from-wal {
+  position: absolute;
+  width: 231px;
+  height: 24px;
+  left: 85px;
+  top: 260px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.when-the-wallet-balance {
+  position: absolute;
+  width: 274px;
+  height: 48px;
+  left: 85px;
+  top: 284px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #4d4d4d;
+}
+
+/* ///////////////////////////////////// */
+/* /////////////////////////////////////// */
+
+/* MOBILE SCREEN */
+@media only screen and (max-width: 428px) {
+  .how-does-it-work-1 {
+    width: 359.17px;
+    height: 496px;
+    left: 34px;
+    top: 603px;
+  }
+  .how-does-it-work {
+    position: absolute;
+    width: 224px;
+    height: 36px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+    color: #800080;
+  }
+
+  .ellipse-132 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    /* left: 2px; */
+    top: 60px;
+    border-radius: 32.5px;
+
+    background: rgba(217, 217, 217, 0.25);
+    /* background-image: url(./images/Ellipse\ 132.png); */
+  }
+  .group-vec {
+    position: absolute;
+    left: 17px;
+    right: 16px;
+    top: 25px;
+    bottom: 24px;
+
+    /* NEW GRADIENT 2 */
+
+    /* background: linear-gradient(270deg, #800080 0%, #ff864c 100%); */
+  }
+
+  .invite-your-friends {
+    position: absolute;
+    width: 151.22px;
+    height: 24px;
+    left: 85px;
+    top: 56px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #000000;
+  }
+
+  .share-the-link-tutedude {
+    position: absolute;
+    width: 270.56px;
+    height: 48px;
+    left: 85px;
+    top: 80px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #4d4d4d;
+  }
+
+  .ellipse-1321 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 0px;
+    top: 152px;
+    border-radius: 32.5px;
+
+    background: rgba(217, 217, 217, 0.25);
+  }
+  .discount-vec {
+    position: absolute;
+    left: 19.67px;
+    right: 18.67px;
+    top: 19.67px;
+    bottom: 18.67px;
+  }
+
+  .friend-purchases-any-co {
+    position: absolute;
+    width: 244.62px;
+    height: 24px;
+    left: 85px;
+    top: 148px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #000000;
+  }
+
+  .using-your-referral-cod {
+    position: absolute;
+    width: 268.76px;
+    height: 48px;
+    left: 85px;
+    top: 172px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #4d4d4d;
+  }
+
+  .ellipse-1322 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+
+    top: 244px;
+    border-radius: 32.5px;
+
+    background: rgba(217, 217, 217, 0.25);
+    /* background-image: url(./images/Ellipse\ 132.png); */
+  }
+  .rupees-vec {
+    position: absolute;
+    left: 21px;
+    right: 21px;
+    top: 18px;
+    bottom: 13px;
+  }
+  .you-get-200-as-referral-m {
+    position: absolute;
+    width: 262px;
+    height: 24px;
+    left: 85px;
+    top: 240px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #000000;
+  }
+
+  .on-total-purchase-the-fr {
+    position: absolute;
+    width: 274.17px;
+    height: 48px;
+    left: 85px;
+    top: 264px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #4d4d4d;
+  }
+
+  .ellipse-1323 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 0px;
+    top: 336px;
+    border-radius: 32.5px;
+    background: rgba(217, 217, 217, 0.25);
+  }
+  .offer-vec {
+    position: absolute;
+    left: 20px;
+    right: 18.36px;
+    top: 20px;
+    bottom: 18.37px;
+  }
+
+  .your-friend-gets-200-off {
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 85px;
+    top: 332px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #000000;
+  }
+
+  .on-his-overall-fee-on-suc {
+    position: absolute;
+    width: 274px;
+    height: 48px;
+    left: 85px;
+    top: 356px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #4d4d4d;
+  }
+
+  .ellipse-1324 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+
+    top: 428px;
+    border-radius: 32.5px;
+
+    background: rgba(217, 217, 217, 0.25);
+    /* background-image: url(./images/Ellipse\ 132.png); */
+  }
+  .wallet-vec {
+    position: absolute;
+    left: 21px;
+    right: 18.67px;
+    top: 21px;
+    bottom: 20px;
+  }
+  .transfer-money-from-wal {
+    position: absolute;
+    width: 231px;
+    height: 24px;
+    left: 85px;
+    top: 424px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    color: #000000;
+  }
+
+  .when-the-wallet-balance {
+    position: absolute;
+    width: 274px;
+    height: 48px;
+    left: 85px;
+    top: 448px;
+
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #4d4d4d;
+  }
+}

@@ -1,0 +1,43 @@
+/* Second Header */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+p {
+  margin: 0;
+}
+
+.secondheader {
+  position: absolute;
+  width: 1366px;
+  height: 76px;
+  left: 0px;
+  top: 73px;
+
+  background: #ffffff;
+}
+.secondheader h1 {
+  margin: 0px;
+  position: absolute;
+  width: 138px;
+  height: 21px;
+  left: 187px;
+  top: 30px;
+  bottom: 25px;
+  right: 1041px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* Mobile screen */
+@media only screen and (max-width: 428px) {
+  .secondheader {
+    display: none;
+  }
+}
